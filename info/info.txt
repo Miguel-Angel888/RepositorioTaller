@@ -1,0 +1,6 @@
+/*Nombre: Miguel Angel
+* Fecha:15/02/2026
+* Descripcion: Programa que recibe n cantidad de notas y muestra el promedio,
+*              nota mayor y menor, la mas repetida,organizada(metodo burbuja creciente)
+*              y (metodo burbuja decreciente).
+ */
